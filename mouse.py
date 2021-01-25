@@ -31,6 +31,7 @@ listener = Listener(
     on_scroll=on_scroll)
 listener.start()
 
-while 1:
-    input('press \'enter\' to continue...')
-    exit()
+# Haven't figured this part out yet, experiment.
+# while 1:
+#    input('press \'enter\' to continue...')
+#   exit()
