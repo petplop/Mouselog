@@ -1,8 +1,3 @@
-import subprocess
-import colorama
-import requests
-import base64
-import os
 from pynput import Listener
 import logging
 
